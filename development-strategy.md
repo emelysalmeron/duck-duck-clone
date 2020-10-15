@@ -50,10 +50,28 @@ __A User can see my initial repository and live demo__
 ## 2.Make the Green section
 1. Develope locally on a branch called `Green`
 2. Assign to Emely
+3. Push it from cmd
+4. Make pull request
+5. Merge with Master
 
 ### HTML
+* Create HTML file structure called __index.html__
+* Add `<section>`
+* Add  `<div class>`
+* Add `<img src>` with alt"womanwithmonster"
+* Center position
 
-### CSS
+#### CSS
+* Style: 
+   * Background: #58B792
+   * Class
+   * Id
+   * Size
+* Upload image
+* Add fonts
+* Add flexboxgrid 
+
+
 
 ## 3.Make the Orange section
 1. Develope locally on a branch called `Orange`
