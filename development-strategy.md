@@ -2,12 +2,12 @@
 
 >## `duck-duck-clone`
 
-- Recreating duckduckgo.com web page for learning purposed in HackYourFuture modul Incremental Development
+- Recreating duckduckgo.com web page for learning purposed in HackYourFuture module Incremental Development
 - The project will be made by group 1 by dividing task for each members
 
 |White Home Section | Green section | Orange section | Purple Section | Sky-blue section |
 |-------------------|---------------|----------------| ---------------|------------------|
-|   Anisya          |   Emely       |     Saban      |    Mahmoud     |     Arpine       |
+|   Anisya          |   Emely       |     Mahmoud      |    Mahmoud     |     Arpine       |
 
 - The main idea of the project is to practice of collaboration workflow on Github
 
@@ -33,32 +33,61 @@ __A User can see my initial repository and live demo__
 ### Repo
 1. Develope locally on a branch called `white`
 2. Assign to Anisya
+3. Make pull request
+4. Merge with master
 
 ### HTML
-
-what did you change in the HTML and why?
+* add link with flexboxgrid.css
+* add link with font-awesome.css
+* add link with the css.style file
+* create `navbar`
+* add the DuckduckGo Logo
+* add searchbar and button
+* add text under the searchbar
+* add extra logo (image climber.png) 
 
 ### CSS
-
-what did you change in the CSS and why?
+* styling the `navbar`
+* styling the logo
+* styling the searchbar and button
+* styling the text
+* styling the extra logo 
 
 ## 2.Make the Green section
 1. Develope locally on a branch called `Green`
 2. Assign to Emely
+3. Push it from cmd
+4. Make pull request
+5. Merge with Master
 
 ### HTML
+* Create HTML file structure called __index.html__
+* Add `<section>`
+* Add  `<div class>`
+* Add `<img src>` with alt"womanwithmonster"
+* Center position
 
-### CSS
+#### CSS
+* Style: 
+   * Background: #58B792
+   * Class
+   * Id
+   * Size
+* Upload image
+* Add fonts
+* Add flexboxgrid 
+
+
 
 ## 3.Make the Orange section
-1. Develope locally on a branch called `Orange`
-2. Assign to 
+1. Develope locally on a branch called `orange-purple`
+2. Assign to Mahmoud
 ### HTML
 
 ### CSS
 
 ## 4.Make the Purple section
-1. Develope locally on a branch called `Purple`
+1. Develope locally on a branch called `orange-purple`
 2. Assign to Mahmoud
 
 ### HTML

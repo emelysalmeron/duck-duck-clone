@@ -135,4 +135,28 @@ section{
 #climber {
     width: 5%;
     padding-top: 180px;
+
+/* GREEN-BLOCK */
+#green-block {
+  background: #58b792;
+  margin: center;
+}
+
+#green-block .row {
+  height: 900px;
+  width: 1296px;
+}
+
+#green-block .green-text {
+  color: #fff;
+  padding: 50px;
+}
+
+#green-block h1 {
+  font-size: 2em;
+}
+
+#green-block img {
+  width: 90%;
+  padding-top: 182px;
 }
