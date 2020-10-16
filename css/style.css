@@ -218,3 +218,59 @@ section{
   width: 90%;
   padding-top: 228px;
 }
+
+/* LIGHTBLUE-BLOCK */
+#lbblock{
+  background: rgb(135,206,245);
+  color: #fff;
+  height: 100vh;
+}
+
+/* LIGHTBLUE-Right-2-links */
+.rlinks{
+  color: rgb(55,83,116)
+}
+
+.rlinks span{
+  font-weight: bold;
+}
+
+/* LIGHTBLUE-TEXT */
+#lbblock h1{
+  padding-top: 20px;
+  font-size: 40px;
+  font-weight: bolder;
+  color: rgb(55,83,116);
+  line-height: 100%;
+}
+
+#lbblock p{
+  font-size: 16px;
+  line-height: 120%;
+    color: rgb(55,83,116);
+}
+
+#lbblock .tweet-link{
+  background: rgb(55,83,116);
+  color: #fff;
+  border-radius: 5px;
+  opacity: 0.9;
+  height: auto;
+}
+
+#lbblock .tweet-link:hover{
+  background: rgb(73,110,147);
+  color: #fff;
+  border-radius: 5px;
+  opacity: 0.9;
+  height: auto;
+}
+
+
+
+#lightblue-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
